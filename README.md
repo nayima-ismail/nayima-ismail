@@ -11,8 +11,8 @@ Java Developer 🔹 Explorer 🔹 Learner🔹
 <p align="left">
 	<p align="left">
 	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,css,html,androidstudio,java,kotlin,js,php,azure,aws,docker,kubernetes,linux,vscode,django,mysql,arduino&perline=10" />
-  	</a> 
+    	<img src="https://skillicons.dev/icons?i=spring,mongodb,tensorflow,python,css,html,java,js,php,aws,vscode,maven,mysql,hibernate,idea,angular&perline=10" />
+</a> 
 </p>
 
 However, I'm also intensively exploring such topics like (among other things): \
