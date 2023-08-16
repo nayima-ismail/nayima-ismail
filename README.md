@@ -8,6 +8,13 @@ Java Developer 🔹 Explorer 🔹 Learner🔹
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<p align="left">
+	<p align="left">
+	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,css,html,androidstudio,java,kotlin,js,php,azure,aws,docker,kubernetes,linux,vscode,django,mysql,arduino&perline=10" />
+  	</a> 
+</p>
+
 However, I'm also intensively exploring such topics like (among other things): \
 🔹 Data science \
 🔹 Machine Learning \
