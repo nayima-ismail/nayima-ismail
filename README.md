@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there 👋 My name's Nayima Ismail
 
-<!--
-**nayima-ismail/nayima-ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer 🔹 Explorer 🔹 Learner🔹
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+However, I'm also intensively exploring such topics like (among other things): \
+🔹 Data science \
+🔹 Machine Learning \
+🔹 Python
+
+## Find Me Around The Web 🌍
+- 🔗 [Linkedin](https://www.linkedin.com/in/nayima-ismail-10b628a5/)
+- 📫 [E-mail](mailto:nayimaismail@gmail.com)
+
+## My GitHub Stats
+
+<a href="[https://github.com/nayima-ismail]">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayima-ismail&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+</a>
