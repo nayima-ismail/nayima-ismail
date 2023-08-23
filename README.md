@@ -1,4 +1,4 @@
-### Hey there 👋 My name's Nayima Ismail
+### Hey there 👋 I am Nayima Ismail
 
 Java Developer 🔹 Explorer 🔹 Learner🔹
 
